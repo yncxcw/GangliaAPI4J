@@ -44,7 +44,7 @@ public static void main(String [] args){
 	}
 	
 	
-RemoteReader try to connect the remote gmetad thread by predefined ip and port(default is 27.0.0.1:8651) which depends on your gnaglia setting. MetricsRetrieve analysis the raw input data and encapsulate them in for of Metric struct.
+RemoteReader try to connect the remote gmetad thread by predefined ip and port(default is 27.0.0.1:8651) which depends on your gnaglia setting. MetricsRetrieve analysis the raw input data and encapsulate them in the form of Metric struct.
 
 
 If you have any problems about my code, please feel free to contact me: ynjassionchen@gmail.com
